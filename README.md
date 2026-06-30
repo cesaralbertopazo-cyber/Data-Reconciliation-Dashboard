@@ -31,7 +31,7 @@ This project was built to:
 ### 1. Company Overview
 High-level view of client distribution, lodgement status, and outstanding debt across the practice.
 
-![Company Overview](screenshots/company_overview.png)
+![Company Overview](company_overview.png)
 
 **Highlights:**
 - 1.6K total clients across 5 entity types (individuals/sole traders, companies, trusts, SMSFs, other)
@@ -42,7 +42,7 @@ High-level view of client distribution, lodgement status, and outstanding debt a
 ### 2. Lodgement Issues and Exceptions
 Reconciliation view identifying discrepancies between systems and tracking lodgement performance over time.
 
-![Lodgement Issues and Exceptions](screenshots/lodgement_issues.png)
+![Lodgement Issues and Exceptions](lodgement_issues.png)
 
 **Highlights:**
 - 112 unmatched clients identified between ATO and XPM (36 ATO-only, 76 XPM-only)
